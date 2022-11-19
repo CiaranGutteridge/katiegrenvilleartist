@@ -1,0 +1,62 @@
+p.introquote {
+    font-size: 88px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+
+}
+
+.header {   
+    padding: 20px 10px;
+}
+
+.img-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opening {
+    width: 100%;
+}
+
+.spin {
+    height: 80vh;
+    width: 80vw;
+}
+
+.landing {
+    /* background-color: #030303 */
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 35vw;
+}
+
+.portrait {
+    margin: auto;
+}
+
+.inner-content {
+    justify-content: center;
+    text-align: center;
+}
+
+.about-text {
+    margin-left: 22vw;
+    margin-right: 22vw;
+    text-align: start;
+}
+
+.contact-text {
+    justify-content: center;
+    text-align: center; 
+}
